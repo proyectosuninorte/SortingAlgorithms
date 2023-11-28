@@ -10,9 +10,9 @@ Este proyecto consiste en una página web interactiva que muestra visualizacione
 
 ## Como utilizar
 - **Clone the repo**
-git clone https://github.com/proyectosuninorte/SortingAlgorithms.git
+```git clone https://github.com/proyectosuninorte/SortingAlgorithms.git```
 - **Ejecutar la Página Web:**
-Abre el archivo index.html en tu navegador web preferido.
+    - Abre el archivo index.html en tu navegador web preferido.
 - **Interactuar con la Página:**
     - Selecciona el algoritmo que deseas visualizar (Bubble Sort, Quick Sort, o Insertion Sort).
     - Ingresa una serie de números en la interfaz.
