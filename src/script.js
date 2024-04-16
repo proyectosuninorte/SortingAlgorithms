@@ -61,13 +61,13 @@ menuLinks.addEventListener('click', hideMobileMenu);
 navLogo.addEventListener('click', hideMobileMenu);
 
 function goToBubbleSortPage() {
-    window.location.href = "./bubbleSort.html";
+    window.location.href = "sortingalgorithms/bubbleSort.html";
 }
 
 function goToQuickSortPage() {
-    window.location.href = "./quickSort.html";
+    window.location.href = "sortingalgorithms/quickSort.html";
 }
 
 function goToInsertionSortPage() {
-    window.location.href = "./insertionSort.html";
+    window.location.href = "sortingalgorithms/insertionSort.html";
 }
