@@ -65,9 +65,9 @@ function goToBubbleSortPage() {
 }
 
 function goToQuickSortPage() {
-    window.location.href = "quickSort.html";
+    window.location.href = "sortingalgorithms/quickSort.html";
 }
 
 function goToInsertionSortPage() {
-    window.location.href = "insertionSort.html";
+    window.location.href = "sortingalgorithms/insertionSort.html";
 }
