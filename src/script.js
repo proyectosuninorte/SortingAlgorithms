@@ -61,7 +61,7 @@ menuLinks.addEventListener('click', hideMobileMenu);
 navLogo.addEventListener('click', hideMobileMenu);
 
 function goToBubbleSortPage() {
-    window.location.href = "bubbleSort.html";
+    window.location.href = "sortingalgorithms/bubbleSort.html";
 }
 
 function goToQuickSortPage() {
